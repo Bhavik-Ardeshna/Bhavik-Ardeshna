@@ -43,7 +43,6 @@ Stack Web Development (MERN and MEAN Stack Technologies).
 
 # 📫 How to reach me : #
 ### 💌Mail me [ardeshnabhavik@gmail.com]()
-### 📞Call ME [+917572878227]()
 
 
 # Social Media #
