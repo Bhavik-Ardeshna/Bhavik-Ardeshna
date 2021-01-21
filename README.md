@@ -1,7 +1,7 @@
 # Hi, I'm Bhavik Ardeshna 👋🎓
 
-I'm a 2nd year student in BE Computer engineering from Dharmsinh Desai University. 
 DataScience And Big Data Enthusiastic.
+
 ---
 
       
