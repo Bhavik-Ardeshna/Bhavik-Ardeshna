@@ -26,7 +26,8 @@ Stack Web Development (MERN and MEAN Stack Technologies).
 
 # Statistics #
 
-![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-Ardeshna&show_icons=true&theme=tokyonight)
+![Bhavik's github stats](https://github-readme-stats.vercel.app/api?username=Bhavik-Ardeshna&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+
 
 # Most Used Language #
 
