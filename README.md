@@ -1,8 +1,7 @@
 # Hi, I'm Bhavik Ardeshna 👋🎓
 
-I'm a 1st year student in BE Computer engineering from Dharmsinh Desai University, who is passionate about JavaScript Full 
-Stack Web Development (MERN and MEAN Stack Technologies).  
-
+I'm a 2nd year student in BE Computer engineering from Dharmsinh Desai University. 
+DataScience And Big Data Enthusiastic.
 ---
 
       
