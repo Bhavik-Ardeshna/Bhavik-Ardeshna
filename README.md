@@ -1,5 +1,5 @@
 # Hi, I'm Bhavik Ardeshna 👋🎓
-<img src="https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png" >
+<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" >
 <br />
 <br />
 
