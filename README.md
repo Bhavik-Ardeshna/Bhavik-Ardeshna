@@ -1,5 +1,5 @@
 # Hi, I'm Bhavik Ardeshna 👋🎓
-<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" >
+<img src="https://giphy.com/gifs/26DoiqmYcxgFICb3G/html5" >
 <br />
 <br />
 
