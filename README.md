@@ -1,4 +1,4 @@
-## <div align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Bhavik Ardeshna✨<br> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Natural Language Processing Researcher</div>
+## <div align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">Hi, I'm Bhavik Ardeshna✨<br> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Natural Language Processing Researcher</div>
 
 
 <p align="center">
