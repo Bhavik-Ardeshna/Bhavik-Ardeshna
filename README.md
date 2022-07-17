@@ -26,7 +26,7 @@
   <br>
   💻 I love to contribute to open-source organizations
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: ardeshnabhavik@gmail.com">ardeshnabhavik@gmail.com</a>
 </p>
