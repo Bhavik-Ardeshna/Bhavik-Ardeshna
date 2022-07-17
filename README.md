@@ -6,8 +6,8 @@
 </h1>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/bhavik-ardeshna-a4494a1b0/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ArdeshnaBhavik"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/bhavik-ardeshna-a4494a1b0/"><img height="30" src="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ArdeshnaBhavik"><img height="30" src="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
