@@ -13,18 +13,14 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🤵 Bhavik Ardeshna | 💻 AI/NLP Enthusiast | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🤵 Bhavik Ardeshna | 💻 AI/NLP Enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <b><i>{Loves the harmony of Vision and Language}</i></b>
 </div>
 
 
 <p align="center">
   <br>
-  🔬 I'm currently studying for a bachelor's degree in DDU Computer Engineering Department
-  <br>
-  🎓 I have been doing research in Natural Language Processing 
-  <br>
-  💻 I love to contribute to open-source organizations
+  🔬 I'm currently studying for a bachelor's degree in Université de Montréal (Mila - Quebec AI Institute)
   <br>
   💬 Ask me anything about from <a href="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/issues" title="Issues">Here</a>
   <br>
