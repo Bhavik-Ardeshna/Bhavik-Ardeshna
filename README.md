@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🤵 Bhavik Ardeshna | 💻 AI/NLP Enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🤵 Bhavik Ardeshna</h3>
 <b><i>{Loves the harmony of Vision and Language}</i></b>
 </div>
 
