@@ -19,9 +19,6 @@
 
 
 <p align="center">
-  <br>
-  🔬 I'm currently studying for a bachelor's degree in Université de Montréal (Mila - Quebec AI Institute)
-  <br>
   💬 Ask me anything about from <a href="https://github.com/Bhavik-Ardeshna/Bhavik-Ardeshna/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: ardeshnabhavik@gmail.com">ardeshnabhavik@gmail.com</a>
